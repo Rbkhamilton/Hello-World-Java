@@ -18,7 +18,7 @@
   Also, I used the IntelliJ IDEA as IDE to facilitate de coding and compiling of Java.  
   Lastly, I used the git tools of IntelliJ and GitHub to create a version control of my program and the repository of my Java program.  
   
-  [GitHub](https://github.com/Rbkhamilton/Hello-World-Java.java.git)
+  [GitHub](https://github.com/Rbkhamilton/Hello-World-Java)
 
   Java is an object-oriented language, that is, Java works with its data as objects.  
   To carry out the coding for this program I had to define a class. This class contained the method main, used to start the execution of the program, in this case, the printing of the message.  
